@@ -33,4 +33,6 @@ recommendation systems, and model evaluation using real-world datasets.
 - TensorFlow / Keras (for deep learning tasks)
 - Jupyter Notebook
 
-## 📂 Repository Structure
+### Setup
+pip install -r requirements.txt
+
