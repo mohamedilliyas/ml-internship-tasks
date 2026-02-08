@@ -36,13 +36,4 @@ recommendation systems, and model evaluation using real-world datasets.
 ### Setup
 pip install -r requirements.txt
 
-# Student Score Prediction
 
-## Import Libraries
-## Load Dataset
-## Data Cleaning
-## Exploratory Data Analysis
-## Feature Selection
-## Model Training
-## Model Evaluation
-## Conclusion
